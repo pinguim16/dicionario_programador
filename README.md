@@ -19,3 +19,4 @@ GRPC
 Clean Arquicteture
 Clean code 
 Refatoração ou Refactor
+Worker Thread Pooling
